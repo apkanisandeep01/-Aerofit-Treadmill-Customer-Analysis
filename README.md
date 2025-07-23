@@ -1,4 +1,3 @@
-# -Aerofit-Treadmill-Customer-Analysis
 # Aerofit Treadmill Customer Analysis
 
 ## Overview
